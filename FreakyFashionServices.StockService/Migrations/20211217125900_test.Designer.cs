@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FreakyFashionServices.StockService.Migrations
 {
     [DbContext(typeof(StockServiceContext))]
-    [Migration("20211216124757_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20211217125900_test")]
+    partial class test
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

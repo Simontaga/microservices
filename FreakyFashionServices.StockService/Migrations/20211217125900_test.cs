@@ -4,7 +4,7 @@
 
 namespace FreakyFashionServices.StockService.Migrations
 {
-    public partial class InitialCreate : Migration
+    public partial class test : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
