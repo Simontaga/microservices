@@ -40,7 +40,7 @@ namespace FreakyFashion.BasketService.Controllers
 
             Cache.SetString(basketdto.Identifier, serializedBasket);
 
-            return Created("", null); // 201 Created
+            return Created("", null); 
         }
 
     }

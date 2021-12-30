@@ -4,18 +4,18 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:51107",
+      "applicationUrl": "http://localhost:45579",
       "sslPort": 0
     }
   },
   "profiles": {
-    "FreakyFashion.BasketService": {
+    "FreakyFashionServices.OrderService": {
       "commandName": "Project",
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:5232",
+      "applicationUrl": "http://localhost:5207",
       "dotnetRunMessages": true
     },
     "IIS Express": {
